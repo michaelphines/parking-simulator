@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7048c5ff-2b08-4aac-9461-afe90e1754a3"
+      }
+    },
+    "owner": "michaelphines"
   }
 }
